@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 El daniel morales es joto y foraneo
 fadsfasdfasdfa
 afsdfasfasf
@@ -6,3 +7,6 @@ asdfagerqgw
 afdarqwrefgveg
 wdfergqergwe
 egfwege
+=======
+El daniel morales es joto
+>>>>>>> parent of 131df62 (Update hola.txt)
